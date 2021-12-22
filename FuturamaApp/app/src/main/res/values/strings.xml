@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Futurama</string>
+    <string name="detail_activity_title">Detail Activity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="robots">Robots</string>
+    <string name="mutants">Mutants</string>
+    <string name="humans">Humans</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="or">OR</string>
+    <string name="or_sign_up">or, sign up</string>
+    <string name="last_name">Last name</string>
+    <string name="name">Name</string>
+    <string name="date">date</string>
+    <string name="ok">OK</string>
+    <string name="register">REGISTER</string>
+
+
+</resources>
